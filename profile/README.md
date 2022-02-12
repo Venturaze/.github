@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
       alt="Botpress"
-      src="venturaze-green.svg"
+      src="./venturaze-green.svg"
     />
 </h1>
  
